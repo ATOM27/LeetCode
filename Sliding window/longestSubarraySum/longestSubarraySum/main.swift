@@ -25,4 +25,4 @@ func longestSubarray(array: [Int], taget: Int) -> Int {
     return answer
 }
 
-print(longestSubarray(array: [1,1,1,3], taget: 3))
+print(longestSubarray(array: [3, 1, 2, 7, 4, 2, 1, 1, 5], taget: 8))
