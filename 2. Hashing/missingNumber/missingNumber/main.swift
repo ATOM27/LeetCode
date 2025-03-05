@@ -20,7 +20,7 @@ func missingNumber(_ nums: [Int]) -> Int {
     }
     
     return -1
-}
+} 
 
 print(missingNumber([1,0]))
 
